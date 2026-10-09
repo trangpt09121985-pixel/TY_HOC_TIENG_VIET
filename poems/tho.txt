@@ -1,0 +1,613 @@
+// ===== THƯ VIỆN THƠ CỦA VƯỜN CHỮ DIỆU KỲ =====
+// Cách dùng:
+//  - Mỗi bài bắt đầu bằng một dòng "=== Tên bài thơ".
+//  - Dòng "Tác giả: ..." ngay sau tên bài (không bắt buộc).
+//  - Xoá dòng (Dán lời bài thơ vào đây) rồi dán lời thơ vào: mỗi câu thơ một dòng,
+//    để một dòng trống giữa các khổ thơ.
+//  - Dòng nào chưa chắc đúng với tài liệu, thêm [?] vào cuối dòng để trang đánh dấu cho bố mẹ kiểm tra.
+//  - Bài nào chưa dán lời thì trang tự bỏ qua.
+//  - Muốn thêm bài mới: thêm một dòng "=== Tên bài mới" ở cuối tệp rồi dán lời.
+//  - Dòng bắt đầu bằng // là ghi chú, trang không hiển thị.
+//  - Khi lưu bằng Notepad, chọn mã hoá UTF-8 để giữ đúng dấu tiếng Việt.
+
+=== Mười quả trứng tròn
+Mười quả trứng tròn
+Mẹ gà ấp giữ
+Mười chú gà con
+Hôm nay ra đủ
+
+Lòng trắng, lòng đỏ,
+Thành mỏ, thành chân
+Cái mỏ tí hon
+Cái chân bé xíu
+
+Lông vàng mát dịu
+Mắt sáng đen ngời
+Ơi chú gà ơi
+Ta yêu chú lắm!
+
+Trong bàn tay ấm
+Chú đứng chú kêu
+Mẹ gà tục tục
+Chú ngoái nhìn theo
+
+Ta thả chú ra
+Chạy ăn cùng mẹ
+Chạy biến cả chân!
+Chạy sao nhanh thế!
+
+Phải cẩn thận nhé
+Các chú gà con:
+Có diều, có chồn
+Phần gà mẹ đánh
+Các chú phải lánh
+Kêu cứu dưới, trên!
+
+Gà là của bé
+Các chú đừng quên
+Ăn khoẻ, lớn khoẻ
+Đẻ rõ nhiều lên!
+
+=== Gửi lời chào lớp Một
+Lớp Một ơi! Lớp Một!
+Đón em vào năm trước,
+Nay giờ phút chia tay,
+Gửi lời chào tiến bước!
+
+Chào bảng đen cửa sổ,
+Chào chỗ ngồi thân quen.
+Tất cả! Chào ở lại
+Đón các bạn nhỏ lên.
+
+Chào cô giáo kính mến,
+Cô sẽ xa chúng em…
+– Làm theo lời cô dạy,
+Cô sẽ luôn ở bên.
+
+Lớp Một ơi! Lớp Một!
+Đón em vào năm trước,
+Nay giờ phút chia tay,
+Gửi lời chào tiến bước!
+
+
+=== Làm anh
+Làm anh khó đấy
+Phải đâu chuyện đùa
+Với em gái bé
+Phải người lớn cơ.
+
+Khi em bé khóc
+Anh phải dỗ dành
+Nếu em bé ngã
+Em nâng dịu dàng.
+
+Mẹ cho quà bánh
+Chia em phần hơn
+Có đồ chơi đẹp
+Cũng nhường em luôn.
+
+Làm anh thật khó
+Nhưng mà thật vui
+Ai yêu em bé
+Thì làm được thôi.
+
+=== Cái trống trường em
+Cái trống trường em
+Mùa hè cũng nghỉ
+Suốt ba tháng liền
+Trống nằm ngẫm nghĩ
+
+Buồn không hả trống
+Trong những ngày hè
+Bọn mình đi vắng
+Chỉ còn tiếng ve?
+
+Cái trống lặng im
+Nghiêng đầu trên giá
+Chắc thấy chúng em
+Nó mừng vui quá!
+
+Kìa trống đang gọi
+Tùng! Tùng! Tùng! Tùng...
+Vào năm học mới
+Rộn vang tưng bừng.
+
+=== Mẹ và cô
+Buổi sáng bé chào mẹ
+Chạy đến ôm cổ cô
+Buổi chiều bé chào cô
+Rồi sà vào lòng mẹ
+
+Mặt trời mọc rồi lặn
+Trên đôi chân lon ton
+Hai chân trời của con
+Là mẹ và cô giáo.
+
+
+
+=== Thăm nhà bà
+Đến thăm bà
+Bà đi vắng
+Có đàn gà
+Chơi ngoài nắng
+Cháu đứng ngắm
+Đàn gà con
+Rồi gọi luôn
+Bập, bập, bập
+Chúng lật đật
+Chạy thật nhanh
+Xúm vòng quanh
+Kêu: “Chiếp, chiếp”
+Gà mãi miết
+Nhặt thóc vàng
+Cháu nhẹ nhàng
+Lùa vào mát.
+
+=== Em yêu nhà em
+Bình luận nhanh 7
+Thêm bình luận mới...
+
+
+
+hihi04/07/2026 14:47
+very very goodk
+
+Thu Võ03/11/2020 03:46
+Có đầm ngào ngạt HƯƠNG sen. Sẽ chuẩn hơn là HOA
+
+Nguyễn Lan27/10/2020 17:48
+hay
+
+Trần Thị Thanh Hương04/11/2019 20:42
+bài thơ hay quá !
+
+Ngọc Ngọc08/01/2019 21:36
+very good
+
+Lê Ngọc09/11/2018 12:30
+Bức tranh quê
+
+Di Phương15/10/2018 18:47
+hay quá
+
+Em yêu nhà em
+Thơ » Việt Nam » Hiện đại » Đoàn Thị Lam Luyến
+Chẳng đâu bằng chính nhà em
+Có đàn chim sẻ bên thềm líu lo
+Có nàng gà mái hoa mơ
+Cục ta, cục tác khi vừa đẻ xong
+Có bà chuối mật lưng ong.
+Có ông ngô bắp rau hồng như tơ
+Có ao muống với cá cờ
+Em là chị Tấm đợi chờ bống lên
+Có đầm ngào ngạt hoa sen
+Ếch con học nhạc, dế mèn ngâm thơ
+Dù đi xa thật là xa
+Chẳng đâu vui được như nhà của em
+
+
+=== Cây ngô
+ây ngô là mẹ
+Bắp ngô là con
+Thân mẹ gầy còm
+Thân con béo chắc.
+
+Mỗi cây mấy bắp
+Hạt căng mẩy tròn
+Dồn sức nuôi con
+Mẹ đâu có tiếc.
+
+Con ơi có biết
+Mẹ yêu con nhiều!
+
+=== Bé ngoan
+Bé xem ti vi
+Đưa tin bão lụt
+Phố phường ngập nước
+Làng quê mênh mông
+
+Xốn xang trong lòng
+Bé không ngủ được
+Nước cao mấy thước
+Trôi cửa trôi nhà
+
+Con mất mẹ cha
+Ông bà mất cháu
+Không nơi nương náu
+Đói, lạnh vô cùng...
+
+Mắt bé rưng rưng
+Vội vàng bảo mẹ:
+- Con đập “heo” nhé
+Ủng hộ bà con...
+
+Còn gì đẹp hơn
+Tấm lòng nhân ái
+Mẹ khen bé giỏi
+Đúng là bé ngoan!
+
+=== Chiếc quạt nan
+Bà cho cháu chiếc quạt
+Viền nan đỏ, nan xanh
+Chiếc quạt chỏ xinh xinh
+Em quạt gọi gió đến
+
+Ước gì em mau lớn
+Ngày đêm quạt cho bà
+Bà ngon giấc ngủ say
+Bàn tay em gọi gió.
+
+=== Khách đến rồi
+Con mèo hoa
+Ngủ bên bếp
+Khách đến chơi
+Chẳng chào mời
+Mắt vờ nhắm
+Cổ ngoẹo bên
+Thật là không lễ phép
+Mèo hoa rất đáng buồn.
+
+=== Bé ơi
+Bé này, bé ơi!
+Đừng chơi đất cát
+Hãy vào bóng mát
+Khi trời nắng to
+Sau lúc ăn no
+Đừng cho chân chạy
+Buổi sáng ngủ dậy
+Rửa mặt đánh răng
+Sắp đến bữa ăn
+Rửa tay đã nhé!
+Bé ơi, bé này…
+
+=== Tia nắng
+Tia nắng nhỏ,
+
+Lay hàng mi,
+
+Bé dậy đi,
+
+Tập thể dục,
+
+Tia nắng giục,
+
+Đàn gà con,
+
+Chạy lon ton,
+
+Theo chân mẹ,
+
+Tia nắng ghé,
+
+ Bên nhành hoa,
+
+Hoa điệu đà,
+
+Rung rinh nắng.
+
+=== Cô dạy
+Mẹ, mẹ ơi! Cô dạy:
+Phải giữ sạch đôi tay,
+Bàn tay mà giây bẩn,
+Sách, áo cũng bẩn ngay.
+
+Mẹ, mẹ ơi! Cô dạy:
+Cãi nhau là không vui
+Cái miệng nó xinh thế
+Chỉ nói điều hay thôi.
+
+=== Đôi mắt của em
+Đôi mắt xinh xinh
+Đôi mắt tròn tròn
+Giúp em nhìn thấy
+Mọi vật xung quanh
+
+Đôi mắt xinh xinh
+Em yêu em quý
+Giữ cho đôi mắt
+Ngày càng sáng hơn
+
+=== Thỏ trắng
+Mắt đỏ hồng
+Lông trắng muốt
+Tai dài dài
+Đuôi ngắn tẹo
+Chú Thỏ Trắng
+
+Ôm cà-rốt
+Chạy đi chơi
+Thỏ Trắng ơi
+Ngoan, ngoan nhé!
+
+=== Buổi sáng nhà em
+Tác giả: Trần Đăng Khoa
+Ông trời nổi lửa đằng đông
+Bà sân vấn chiếc khăn hồng đẹp thay
+Bố em xách điếu đi cày
+Mẹ em tát nước, nắng đầy trong khau
+Cậu mèo đã dậy từ lâu
+Cái tay rửa mặt, cái đầu nghiêng nghiêng
+Mụ gà cục tác như điên
+Làm thằng gà trống huyên thuyên một hồi
+Cái na đã tỉnh giấc rồi
+Đàn chuối đứng vỗ tay cười, vui sao!
+Chị tre chải tóc bên ao
+Nàng mây áo trắng ghé vào soi gương
+Bác nồi đồng hát bùng boong
+Bà chổi loẹt quẹt lom khom trong nhà
+
+
+
+=== Bà và cháu
+Bà ngồi yên rất lâu
+Bóng tạc lên vách đất
+Dải khăn vuông đội đầu
+Gió lọt vào phơ phất…
+
+Ôm Hương, tay run run
+Bỗng nhiên, bà chớp mắt
+Nhớ ngày xưa đói nghèo
+Thương ông, giặc Pháp bắt
+
+Sục sạo tìm du kích
+Giặc đốt hết xóm làng
+Bố Hương vượt lửa đạn
+Bơi qua Lục Đầu Giang
+
+Ông đi, ông để lại
+Cái vành tang cho bà
+Vết nhăn hằn sâu mãi
+Và hắt hiu tuổi già
+
+Sau hòa bình, bố về
+Xóm làng còn đủ cả
+Chỉ vắng mẹ Hương thôi
+Bố ngồi trơ như đá…
+
+Rồi lạy bà, bố đi…
+Hương mới sinh, bé choắt
+Đất nước sao nhiều giặc
+Đánh đến giờ chưa xong!…
+
+Cái bao tượng của bà
+Thắt bụng dần nhỏ lại
+Cả một đời lo toan
+Lưng bà giờ như gẫy
+
+Bà vẫn vui công việc
+Chả lúc nào ngơi tay
+Khi bà thăm trận địa
+Khi bà trồng hàng cây
+
+Bà vẫn nuôi bộ đội
+Suốt hăm mấy năm trời
+Nhiều chú đeo súng lục
+Cưỡi bình bịch về chơi
+
+Thư các chú gửi về
+Không tuần nào không có
+Chú thì đóng Sơn La
+Chú thì ra Cồn Cỏ
+
+Chú thì giữ Hàm Rồng
+Chú thì xa, xa nữa…
+Thư đi mấy tháng đường
+Nhiều bức nhòe một nửa
+
+Lâu nay, Hương không thấy
+Chú nào về thăm đây
+Bà bảo: Các chú bận
+Đánh Mỹ suốt đêm ngày
+
+Những lúc sợ bà buồn
+Hương lượn tròn, múa hát
+Bóng chuối trùm nửa sân
+Trăng ngời ngời như bạc…
+
+=== Quà của bố
+Bố em là bộ đội
+Ở tận vùng đảo xa
+Chưa lần nào về phép
+Mà luôn luôn có quà
+
+Bố gửi nghìn cái nhớ
+Gửi cả nghìn cái thương
+Bố gửi nghìn lời chúc
+Gửi cả nghìn cái hôn
+
+Bố cho quà nhiều thế
+Vì biết em rất ngoan
+Vì em luôn giúp bố
+Tay súng luôn vững vàng.
+
+=== Chú gà trống nhỏ
+Tác giả: MN8
+Chú gà trống nhỏ
+Cái mào màu đỏ
+Cái mỏ màu vàng
+Đập cánh gáy vang
+Dưới giàn bông bí
+Cái đuôi màu tía
+Óng mượt làm sao!
+Chú nhảy lên cao
+Ó ò o ó!
+
+=== Gà mẹ
+Dắt con đi tìm mồi
+Được mồi lớn hay bé
+Đều dành cho con thôi
+
+Nếu trời đổ cơn giông
+Mẹ dang đôi cánh rộng
+Gọi con mình vào trong
+
+Mèo ăn hiếp con mình
+Gà vội tung chân... đá
+Mèo hoảng hồn, thất kinh
+
+Rèn cho con tìm mồi
+Luyện cho con bay nhảy
+Đến lớn rồi mới thôi!
+
+=== Con gà mái hoa
+(Dán lời bài thơ vào đây)
+
+=== Bài học đầu đời
+Quê hương là gì hở mẹ
+Mà cô giáo dạy phải yêu
+Quê hương là gì hở mẹ
+Ai đi xa cũng nhớ nhiều
+
+Quê hương là chùm khế ngọt
+Cho con trèo hái mỗi ngày
+Quê hương là đường đi học
+Con về rợp bướm vàng bay
+
+Quê hương là con diều biếc
+Tuổi thơ con thả trên đồng
+Quê hương là con đò nhỏ
+Êm đềm khua nước ven sông
+
+Quê hương là cầu tre nhỏ
+Mẹ về nón lá nghiêng che
+Là hương hoa đồng cỏ nội
+Bay trong giấc ngủ đêm hè
+
+Quê hương là vòng tay ấm
+Con nằm ngủ giữa mưa đêm
+Quê hương là đêm trăng tỏ
+Hoa cau rụng trắng ngoài thềm
+
+Quê hương là vàng hoa bí
+Là hồng tím giậu mồng tơi
+Là đỏ đôi bờ dâm bụt
+Màu hoa sen trắng tinh khôi
+
+Quê hương mỗi người chỉ một
+Như là chỉ một mẹ thôi
+Quê hương nếu ai không nhớ...
+
+=== Ngày khai trường
+Tác giả: Nguyễn Bùi Vợi
+Sáng đầu thu trong xanh
+Em mặc quần áo mới
+Đi đón ngày khai trường
+Vui như là đi hội
+
+Gặp bạn, cười hớn hở
+Đứa tay bắt mặt mừng
+Đứa ôm vai bá cổ
+Cặp sách đùa trên lưng
+
+Nhìn các thầy, các cô
+Ai cũng như trẻ lại
+Sân trường vàng nắng mới
+Lá cờ bay như reo
+
+Từng nhóm đứng đo nhau
+Thấy bạn nào cũng lớn
+Năm xưa bé tí teo
+Giờ lớp ba, lớp bốn
+
+Tiếng trống trường gióng giả
+Năm học mới đến rồi
+Chúng em đi vào lớp
+Khăn quàng bay đỏ tươi
+
+=== Bàn tay cô giáo
+Bàn tay cô giáo
+Tết tóc cho em
+Về nhà mẹ khen
+Tay cô đến khéo!
+
+Bàn tay cô giáo
+Vá áo cho em
+Như tay chị cả
+Như tay mẹ hiền.
+
+Cô cầm tay em
+Nắn từng nét chữ
+Em viết đẹp thêm
+Thẳng đều trang vở.
+
+Hai bàn tay cô
+Dạy em múa dẻo
+Hai bàn tay cô
+Dạy em đan khéo.
+
+Cô dắt em đi
+Trên đường tới lớp
+Đường đẹp quê hương
+Đường dài đất nước.
+
+Cô bước, em bước
+Cây xanh đôi bờ
+Vừng đông xoè quạt
+Đẹp bàn tay cô…
+
+=== Chú nghé đi thi
+Một con nghé ra đời
+Ồ vui lắm ai ơi!
+Giữa chân mẹ quấn quít
+Nó nhảy nghịch đùa chơi...
+
+Bú no, day vú mẹ
+Như trẻ nhỏ, khác chi!
+Nó cười - theo kiểu nghé
+Vui mượt cỏ đường đê.
+
+Lông nó đen, đen nháy
+Mẹ nó liếm càng đen
+Mặt trời làm bàn chải
+Từng tia sáng vuốt thêm.
+
+Nghé hôm nay đi thi
+Cũng dậy từ gà gáy.
+Người dắt trâu mẹ đi
+Nghé vừa đi vừa nhảy...
+
+Thi nghé gầy nghé béo
+Toàn hợp tác xã nhà
+Nghé xem chừng cũng hiểu
+Chạy tung tăng tung ta.
+
+Lô nhô đàn nghé mướt
+Như sóng nhẹ ban mai
+Đồi bên cỏ còn ướt
+Nằm phơi như vú dài...
+
+Vui sao đàn nghé con!
+Miệng chúng cười mủm mỉm
+Mắt chúng ngơ ngác tròn
+Nhìn tay người giơ đếm.
+
+- Ai làm mẹ của nghé?
+Trâu mẹ hay em bé
+Mỗi buổi đi học về
+Chăm nghé như chăm em?
+
+Cả một đàn nghé béo
+Con nào hơn con nào?
+Chờ lâu nghé khó chịu
+Chạy vù lên đồi cao.
+
+Nghe mênh mông lúa hát
+Đồng chiêm đang nặng hạt
+Đàn nghé lại ra về
+Vui mượt cỏ đường đê...
+
+=== Kể với mẹ chuyện ở lớp
+ Mẹ có biết ở lớp
+Bạn Hoa không thuộc bài
+Sáng nay cô giáo gọi
+Đứng dậy đỏ bừng tai...
+
+- Mẹ có biết ở lớp
+Bạn Hùng cứ trêu con
+Bạn Mai tay đầy mực
+Còn bôi bẩn ra bàn...
+Vuốt tóc con mẹ bảo:
+
+- Mẹ chẳng nhớ nổi đâu
+Nói mẹ nghe ở lớp
+Con đã ngoan thế nào
