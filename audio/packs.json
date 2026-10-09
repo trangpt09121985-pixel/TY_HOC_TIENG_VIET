@@ -1,0 +1,11 @@
+{
+ "voice": "Giọng nữ, chất giọng miền Bắc (mô hình Piper vi_VN-vais1000-medium, dữ liệu VAIS-1000, CC BY 4.0)",
+ "packs": [
+  "letters",
+  "poems",
+  "rimes",
+  "sentences",
+  "ui",
+  "words"
+ ]
+}

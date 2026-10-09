@@ -1,0 +1,13 @@
+Giọng cô đọc sẵn của Vườn chữ diệu kỳ
+
+- Tạo bằng phần mềm Piper (piper-tts) với mô hình giọng vi_VN-vais1000-medium.
+- Mô hình huấn luyện trên bộ dữ liệu VAIS-1000 (một người đọc, chất giọng miền Bắc),
+  https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+- Giấy phép mô hình: Creative Commons Attribution 4.0 (CC BY 4.0).
+- Đây là giọng do máy tạo, không phải ghi âm của cô giáo.
+
+Các tệp:
+- packs.json: danh sách gói.
+- pack-letters.json (29 chữ cái), pack-rimes.json (155 âm, vần — đọc qua tiếng mẫu),
+  pack-words.json (2.569 tiếng và từ), pack-sentences.json (44 câu), pack-poems.json (bài Cái Bống),
+  pack-ui.json (10 câu cô nói trên trang).
